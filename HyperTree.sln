@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTree", "HyperTree\HyperTree.csproj", "{FBF31F85-8286-4C7A-A976-E22CF2CEFED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTree.Web", "HyperTree.Web\HyperTree.Web.csproj", "{02D9E65D-2769-4636-AA1E-C519266284DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF31F85-8286-4C7A-A976-E22CF2CEFED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF31F85-8286-4C7A-A976-E22CF2CEFED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF31F85-8286-4C7A-A976-E22CF2CEFED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF31F85-8286-4C7A-A976-E22CF2CEFED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D9E65D-2769-4636-AA1E-C519266284DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D9E65D-2769-4636-AA1E-C519266284DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D9E65D-2769-4636-AA1E-C519266284DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D9E65D-2769-4636-AA1E-C519266284DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
